@@ -6,3 +6,6 @@ This repository has been created to keep a tab on useful books.
 
 ## Computer Programming ##
 ### [Web Scrapping With Python | Collecting More Data From The Modern Web | Ryan Mitchell](https://edu.anarcho-copy.org/Programming%20Languages/Python/Web%20Scraping%20with%20Python,%202nd%20Edition.pdf) ###
+
+## Non - Fiction ##
+### [Thinking Fast and Slow | Daniel Kahneman](http://dspace.vnbrims.org:13000/jspui/bitstream/123456789/2224/1/Daniel-Kahneman-Thinking-Fast-and-Slow-.pdf) ###
